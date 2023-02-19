@@ -13,5 +13,5 @@ We got Netzer's approval to do so
 BONUS:
 BonusServer and BonusClient are implemetations of unix domain sockets
 
-Dana zorohov 207817529
-noam vanunu 318995156
+Dana zorohov 
+noam vanunu 
